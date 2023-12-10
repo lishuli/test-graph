@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "deploy": "npm run gh-pages",
+    "gh-pages": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.0"
+  }
+}
